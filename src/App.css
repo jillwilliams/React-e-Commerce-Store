@@ -1,9 +1,9 @@
 :root {
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffb;
-  --mainWhite: #f3f3f3;
+  --mainBlue: #2A2A72;
+  --lightBlue: #009FFB;
+  --mainWhite: #F3F3F3;
   --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainYellow: #FFA400;
   --mainBlack: #000000;
 }
 body {
@@ -37,7 +37,7 @@ body {
   color: var(--mainBlack);
   border-radius: 0 !important;
   border: 0.1rem solid var(--mainDark) !important;
-} 
+}
 .btn-black:hover {
   background: var(--mainDark) !important;
   color: var(--mainWhite) !important;
@@ -47,4 +47,3 @@ body {
   font-size: 1.2rem;
   color: var(--mainYellow);
 }
-
